@@ -1,0 +1,6 @@
+nba_api
+pandas
+pyarrow
+xgboost==2.0.3
+scikit-learn
+joblib
